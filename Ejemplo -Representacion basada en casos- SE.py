@@ -38,3 +38,4 @@ temperatura_actual = 30
 actividad_recomendada = sistema.recomendar_actividad(clima_actual, temperatura_actual)
 
 print(f"Para un clima {clima_actual} y una temperatura de {temperatura_actual}°C, se recomienda: {actividad_recomendada}")
+
